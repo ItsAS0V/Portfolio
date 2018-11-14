@@ -1,0 +1,14 @@
+it\skyplexfactions\listeners\EventPlayerBuild.class
+it\skyplexfactions\database\ClaimsFile.class
+it\skyplexfactions\listeners\EventInventoryClick.class
+it\skyplexfactions\utils\FactionUtils$1.class
+it\skyplexfactions\crafting\CraftingManager.class
+it\skyplexfactions\listeners\EventPlayerJoin.class
+it\skyplexfactions\utils\InventoryManager.class
+it\skyplexfactions\listeners\EventPlayerInteractEntity.class
+it\skyplexfactions\commands\FactionCommand.class
+it\skyplexfactions\utils\FactionUtils.class
+it\skyplexfactions\Manager.class
+it\skyplexfactions\Factions.class
+it\skyplexfactions\database\FactionsFiles.class
+it\skyplexfactions\crafting\ItemManager.class

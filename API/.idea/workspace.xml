@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aca7e86f-abce-465a-8584-559c01be6c6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/API_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/skyplex/API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/skyplex/API.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/skyplex/APIManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/skyplex/APIManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/skyplex/API.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/skyplex/API.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/skyplex/APIManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/skyplex/APIManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/skyplex/utilities/Messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/skyplex/utilities/Messages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/artifacts/Core_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_12_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__org_bukkit_bukkit_1_12_2_R0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__org_spigotmc_spigot_api_1_12_2_R0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/Core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/Core.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/BroadcastCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/BroadcastCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/ChatCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/ChatCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/CreateKitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/CreateKitCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/DelWarpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/DelWarpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/EconomyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/EconomyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/EnchantCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/EnchantCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/InvSeeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/InvSeeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/KillAllCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/KillAllCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/LockdownCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/LockdownCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/LookupCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/LookupCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/MetaCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/MetaCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/SetWarpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/SetWarpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/UnbanCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/UnbanCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/VanishCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/administrator/VanishCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/GamemodeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/GamemodeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/RankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/RankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/SetRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/SetRankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/SetSpawnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/management/SetSpawnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/BanCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/BanCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/KickCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/KickCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/MuteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/MuteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/commands/staff/WarnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/listeners/EventPlayerLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/listeners/EventPlayerLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/utils/KitUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/it/skyplex/utils/KitUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/resources/API-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/resources/API-1.0.0.jar" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1506791333">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="246" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="246" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Messages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Messages.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="API" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="API" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skyplex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skyplex" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca7e86f-abce-465a-8584-559c01be6c6c" name="Default Changelist" comment="" />
+      <created>1541381278781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541381278781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="IntelliGuard" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960597" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Messages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/skyplex/utilities/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

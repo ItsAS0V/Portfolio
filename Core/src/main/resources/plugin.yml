@@ -1,0 +1,101 @@
+name: Skycore
+version: 1.0.0
+main: it.skyplex.Core
+authors: [Dragonzuke]
+commands:
+  balance:
+    description: Get your current balance
+    aliases: [bal]
+  ban:
+    description: Ban a player.
+  broadcast:
+    description: Display a message to everyone.
+    aliases: [bc, announce, b]
+  chat:
+    description: Manage the chat.
+    aliases: [c]
+  ckit:
+    description: Create a kit.
+  economy:
+    description: Manages the economy
+    aliases: [eco]
+  enchant:
+    description: Enchant the current item you're holding
+    aliases: [ench, e]
+  fly:
+    description: Toggle fly mode.
+  gamemode:
+    description: Change your gamemode.
+    aliases: [gm]
+  kick:
+    description: Kick a player.
+  killall:
+    description: Kills everything.
+  kit:
+    description: Get a kit.
+  lockdown:
+    description: Lockdown the server
+    aliases: [abort]
+  lookup:
+    description: Lookup a user.
+    aliases: [search, lu]
+  message:
+    description: MessageUtils a user.
+    aliases: [msg, tell, pm, privatemessage]
+  meta:
+    description: Changes the item mets of the item you're holding
+  mute:
+    description: Mute a player or the chat.
+  ranks:
+    description: Manage the ranks.
+  reply:
+    description: Reply to a message.
+    aliases: [r]
+  setrank:
+    description: Change someones rank.
+  setspawn:
+    description: Sets the spawnpoint.
+  unban:
+    description: Unban a player.
+  vanish:
+    description: Poof!
+    aliases: [v]
+  warn:
+    description: Warn a user.
+  warp:
+    description: WarpCommand to a location.
+  setwarp:
+    description: Set a warp to your current position.
+  delwarp:
+    description: Delete a warp.
+  spawn:
+    description: Go to spawn.
+  sethome:
+    description: Set a home.
+  home:
+    description: Go to a home.
+  delhome:
+    description: Delete a home.
+  ping:
+    description: pong
+  tpa:
+    description: Request teleport to a player.
+  tpaccept:
+    description: Accept a teleport request.
+    aliases: [tpacc]
+  tpdeny:
+    description: Decline a teleport request.
+    aliases: [tpd]
+  heal:
+    description: Get full health and food.
+    alaises: [health, heart, healme]
+  feed:
+    description: Get fed.
+    aliases: [feedme]
+  invsee:
+    description: Open a player's inventory.
+  echest:
+    description: Open an enderchest.
+    aliases: [enderchest]
+  rules:
+    description: Displays the server rules.

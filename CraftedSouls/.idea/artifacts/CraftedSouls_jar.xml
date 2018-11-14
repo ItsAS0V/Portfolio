@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CraftedSouls:jar">
+    <output-path>$USER_HOME$/Documents/Development Server/plugins</output-path>
+    <root id="archive" name="CraftedSouls.jar">
+      <element id="module-output" name="CraftedSouls" />
+      <element id="library" level="project" name="spigot" />
+    </root>
+  </artifact>
+</component>

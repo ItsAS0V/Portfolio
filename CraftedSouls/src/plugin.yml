@@ -1,0 +1,110 @@
+name: CraftedSouls
+version: 1.0a
+main: com.craftedsouls.CraftedSouls
+description: CraftedSouls Plugin
+authors: [Dragonzuke, elliot5]
+
+commands:
+  ban:
+      description: Bans a player from the server.
+  chat:
+      description: Manages the chat.
+  clearinventory:
+      description: Clears your inventory.
+      aliases: [clearinv, ci, clear]
+  channel:
+      description: Change chat channel.
+      aliases: [cc, c]
+  delwarp:
+      description: Deletes a warp.
+  development:
+      description: Enable/Disable Development
+      aliases: [dev]
+  gamemode:
+      description: Changes your gamemode.
+      aliases: [gm]
+  kick:
+      description: Kicks a player from the server.
+  list:
+      description: Lists all the online players.
+  logging:
+      description: Enable/Disable logging.
+  message:
+      description: Messages a player.
+      aliases: [m, msg, pm]
+  opengui:
+      description: Opens a GUI.
+  setspawn:
+      description: Sets the spawnpoint.
+  setwarp:
+      description: Sets a warp.
+  spawn:
+      description: Teleports you to the spawn.
+  teleport:
+      description: Teleport to a player.
+      aliases: [tp]
+  teleporthere:
+      description: Teleport a player to you.
+      aliases: [tphere, tph]
+  ticketaccept:
+      description: Accepts a ticket.
+  ticketclose:
+      description: Close a ticket.
+  ticketcreate:
+      description: Create a ticket.
+  ticketlist:
+      description: Lists all tickets.
+  unban:
+      description: Unbans a player from the server.
+  warp:
+      description: Warp to a location.
+  warps:
+      description: Lists the warps.
+      aliases: [warplist]
+  setrank:
+      description: Sets your rank.
+  createitem:
+      description: Creates an item.
+  getitem:
+      description: Gets target item.
+  listitems:
+      description: Lists the items.
+      aliases: [items]
+  iteminfo:
+      description: Get the item info.
+  speed:
+      description: Sets your fly speed.
+  friend:
+      description: Manages your friends.
+      aliases: [friends, f]
+  lookup:
+      description: Lookup a player's information
+      aliases: [pinfo, pinformation, look]
+  sql:
+      description: SQL Database commands
+  warn:
+      description: Warns a player
+  debug:
+      description: Enables/Disables debug!
+  cleardata:
+      description: Clears the playera data.
+      aliases: [cd]
+  npccreate:
+      description: Create an NPC.
+      aliases: [cnpc]
+  faction:
+      description: NPE
+  settutorial:
+      description: Set tutorial spawn.
+      aliases: [stut, settut]
+  motd:
+      description: Set the server MOTD.
+  economy:
+      description: Manage your economy.
+      aliases: [econ, eco]
+  op:
+      description: OP a player!
+  createability:
+      description: Create an ability!
+  setability:
+      description: Set an ability in your hotbar!

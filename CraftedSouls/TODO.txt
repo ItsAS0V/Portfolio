@@ -1,0 +1,40 @@
+TODO UPDATE v1.0a:
+- Custom Mobs
+- Leveling (Done)
+- Skill Tree
+- Economy (Done)
+- Fast Travel
+- Lookup (Done)
+- Dynamic Death (Done)
+- Combat System (Done)
+- Will money
+- Boss Bars (Done)
+
+TODO UPDATE v2.0a:
+- Basic Guilds
+- Basic Quests
+- Basic Bosses
+- Basic Monsters
+- Basic Events
+- Basic Crafting
+- Basic Magic
+- Basic Treasure Chests
+- More in-depth combat
+- More in-depth skill tree
+- Bounty System
+- Combat Log
+
+TODO UPDATE v3.0a:
+- More in-depth Guilds
+- More in-depth Quests
+- More in-depth Bosses
+- More in-depth Combat
+- More in-depth Events
+- More in-depth Treasure Chests
+- More in-depth Crafting
+- Custom Achivements
+
+TODO UPDATE v3.5a:
+- Tutorial
+- Help
+- Bug Fixes & Imrovements

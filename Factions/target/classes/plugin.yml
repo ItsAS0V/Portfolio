@@ -1,0 +1,8 @@
+name: Skyfactions
+version: 1.0.0
+main: it.skyplexfactions.Factions
+authors: [Dragonzuke]
+commands:
+  faction:
+    description: Factions command.
+    aliases: [f]
